@@ -1,4 +1,4 @@
-package fpis
+package ex2
 
 /**
  * @author CHAOLUN
