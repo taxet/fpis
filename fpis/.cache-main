@@ -27,7 +27,7 @@ name hashing:
 1 items
 0 -> false
 products:
-67 items
+127 items
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex2\Currying$$anonfun$compose$1.class
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex2\Currying$$anonfun$curry$1$$anonfun$apply$1.class
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex2\Currying$$anonfun$curry$1.class
@@ -95,8 +95,68 @@ C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> C:\Users\CHAOLUN\git\fpis\fp
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex4\Ex4$Some$.class
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex4\Ex4$Some.class
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex4\Ex4.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Cons$.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Cons.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Empty$.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$append$1$$anonfun$apply$4.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$append$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$apply$7.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$apply$8.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$cons$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$cons$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$constant$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$constant$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$constantU$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$existF$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$existF$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$fibsRecu$1$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$fibsRecu$1$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$fibsU$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$filter$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$filter$2$$anonfun$apply$3.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$filter$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$flatMap$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$flatMap$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$foldRight$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$forAll$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$forAll$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$from$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$from$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$fromU$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$hasSubsequence$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$headOptionF$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$headOptionF$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$map$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$map$2$$anonfun$apply$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$map$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$mapViaUnfold$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$onesU$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$scanRight$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$scanRight$2$$anonfun$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$scanRight$2$$anonfun$apply$5.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$scanRight$2$$anonfun$apply$6.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$scanRight$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$tails$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$tails$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$take$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$take$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeViaUnfold$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeWhile$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeWhileF$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeWhileF$2$$anonfun$apply$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeWhileF$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeWhileViaUnfold$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$unfold$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$unfold$2.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$zipAll$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$zipWith$1.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$class.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream.class
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5.class
 binary dependencies:
-16 items
+18 items
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> O:\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Fibonacci.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
@@ -113,6 +173,8 @@ C:\Users\CHAOLUN\git\fpis\fpis\src\ex3\Tree.scala -> C:\Program Files\Java\jre1.
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex3\Tree.scala -> O:\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> O:\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> O:\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -130,7 +192,7 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-67 items
+127 items
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> ex2.Currying
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> ex2.Currying$
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> ex2.Currying$$anonfun$compose$1
@@ -198,10 +260,70 @@ C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> ex4.Ex4$Right
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> ex4.Ex4$Right$
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> ex4.Ex4$Some
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> ex4.Ex4$Some$
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Cons
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Cons$
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Empty$
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$append$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$append$1$$anonfun$apply$4
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$apply$7
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$apply$8
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$cons$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$cons$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$constant$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$constant$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$constantU$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$existF$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$existF$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$fibsRecu$1$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$fibsRecu$1$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$fibsU$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$filter$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$filter$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$filter$2$$anonfun$apply$3
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$flatMap$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$flatMap$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$foldRight$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$forAll$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$forAll$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$from$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$from$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$fromU$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$hasSubsequence$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$headOptionF$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$headOptionF$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$map$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$map$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$map$2$$anonfun$apply$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$mapViaUnfold$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$onesU$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$scanRight$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$scanRight$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$scanRight$2$$anonfun$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$scanRight$2$$anonfun$apply$5
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$scanRight$2$$anonfun$apply$6
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$tails$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$tails$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$take$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$take$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$takeViaUnfold$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$takeWhile$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$takeWhileF$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$takeWhileF$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$takeWhileF$2$$anonfun$apply$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$takeWhileViaUnfold$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$unfold$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$unfold$2
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$zipAll$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$$anonfun$zipWith$1
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> ex5.Ex5$Stream$class
 used names:
 0 items
 product stamps:
-67 items
+127 items
 C:\Users\CHAOLUN\git\fpis\fpis\bin\ex2\Currying$$anonfun$compose$1.class -> lastModified(1454698211927)
 C:\Users\CHAOLUN\git\fpis\fpis\bin\ex2\Currying$$anonfun$curry$1$$anonfun$apply$1.class -> lastModified(1454698211933)
 C:\Users\CHAOLUN\git\fpis\fpis\bin\ex2\Currying$$anonfun$curry$1.class -> lastModified(1454698211930)
@@ -269,8 +391,68 @@ C:\Users\CHAOLUN\git\fpis\fpis\bin\ex4\Ex4$Right.class -> lastModified(145477883
 C:\Users\CHAOLUN\git\fpis\fpis\bin\ex4\Ex4$Some$.class -> lastModified(1454778837181)
 C:\Users\CHAOLUN\git\fpis\fpis\bin\ex4\Ex4$Some.class -> lastModified(1454778837178)
 C:\Users\CHAOLUN\git\fpis\fpis\bin\ex4\Ex4.class -> lastModified(1454778836984)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$.class -> lastModified(1454959787162)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Cons$.class -> lastModified(1454959787229)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Cons.class -> lastModified(1454959787215)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Empty$.class -> lastModified(1454959787262)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$append$1$$anonfun$apply$4.class -> lastModified(1454959787323)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$append$1.class -> lastModified(1454959787318)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$apply$7.class -> lastModified(1454959787327)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$apply$8.class -> lastModified(1454959787331)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$cons$1.class -> lastModified(1454959787335)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$cons$2.class -> lastModified(1454959787338)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$constant$1.class -> lastModified(1454959787342)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$constant$2.class -> lastModified(1454959787348)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$constantU$1.class -> lastModified(1454959787355)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$existF$1.class -> lastModified(1454959787406)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$existF$2.class -> lastModified(1454959787413)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$fibsRecu$1$1.class -> lastModified(1454959787417)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$fibsRecu$1$2.class -> lastModified(1454959787422)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$fibsU$1.class -> lastModified(1454959787427)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$filter$1.class -> lastModified(1454959787431)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$filter$2$$anonfun$apply$3.class -> lastModified(1454959787440)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$filter$2.class -> lastModified(1454959787436)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$flatMap$1.class -> lastModified(1454959787445)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$flatMap$2.class -> lastModified(1454959787451)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$foldRight$1.class -> lastModified(1454959787456)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$forAll$1.class -> lastModified(1454959787458)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$forAll$2.class -> lastModified(1454959787463)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$from$1.class -> lastModified(1454959787467)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$from$2.class -> lastModified(1454959787471)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$fromU$1.class -> lastModified(1454959787474)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$hasSubsequence$1.class -> lastModified(1454959787480)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$headOptionF$1.class -> lastModified(1454959787484)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$headOptionF$2.class -> lastModified(1454959787489)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$map$1.class -> lastModified(1454959787494)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$map$2$$anonfun$apply$2.class -> lastModified(1454959787503)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$map$2.class -> lastModified(1454959787498)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$mapViaUnfold$1.class -> lastModified(1454959787511)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$onesU$1.class -> lastModified(1454959787517)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$scanRight$1.class -> lastModified(1454959787522)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$scanRight$2$$anonfun$1.class -> lastModified(1454959787534)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$scanRight$2$$anonfun$apply$5.class -> lastModified(1454959787538)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$scanRight$2$$anonfun$apply$6.class -> lastModified(1454959787543)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$scanRight$2.class -> lastModified(1454959787530)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$tails$1.class -> lastModified(1454959787548)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$tails$2.class -> lastModified(1454959787554)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$take$1.class -> lastModified(1454959787558)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$take$2.class -> lastModified(1454959787562)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeViaUnfold$1.class -> lastModified(1454959787571)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeWhile$1.class -> lastModified(1454959787575)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeWhileF$1.class -> lastModified(1454959787581)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeWhileF$2$$anonfun$apply$1.class -> lastModified(1454959787591)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeWhileF$2.class -> lastModified(1454959787587)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$takeWhileViaUnfold$1.class -> lastModified(1454959787595)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$unfold$1.class -> lastModified(1454959787598)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$unfold$2.class -> lastModified(1454959787602)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$zipAll$1.class -> lastModified(1454959787613)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$$anonfun$zipWith$1.class -> lastModified(1454959787619)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$.class -> lastModified(1454959787304)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream$class.class -> lastModified(1454959787643)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5$Stream.class -> lastModified(1454959787279)
+C:\Users\CHAOLUN\git\fpis\fpis\bin\ex5\Ex5.class -> lastModified(1454959787067)
 source stamps:
-8 items
+9 items
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> hash(74aac594f8fdbc60e47c2217261f950f96764d2b)
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Fibonacci.scala -> hash(ba214fe94c28cec96df5b92866230262fd705a5f)
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\IsSorted.scala -> hash(d00103dfc4135d07c4f04af8c8b17fdff694e373)
@@ -279,16 +461,17 @@ C:\Users\CHAOLUN\git\fpis\fpis\src\ex3\Subsequences.scala -> hash(2781366e8777a8
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex3\Tail.scala -> hash(2626d08cfa5ad9cf460317ea0dcc7119e73c1ad5)
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex3\Tree.scala -> hash(c18bd1a58292a2516a75b7a2f5c52e8a86198fee)
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> hash(0a58da0176195b2f1e6801a616d4e1af5c84929c)
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> hash(c795416e0ad2ef08401fd66916ce13ceca213aeb)
 binary stamps:
 2 items
 C:\Program Files\Java\jre1.8.0_45\lib\rt.jar -> lastModified(1436448584476)
 O:\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1438134624674)
 class names:
 2 items
-C:\Program Files\Java\jre1.8.0_45\lib\rt.jar -> java.io.Serializable
-O:\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Product
+C:\Program Files\Java\jre1.8.0_45\lib\rt.jar -> java.lang.Object
+O:\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Equals
 internal apis:
-8 items
+9 items
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBPTdBNAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAMZXgyLkN1cnJ5aW5ndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA2dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBTdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBUc3EAfgBHdAADQW55c3EAfgBLc3EAfgBOdXEAfgBRAAAAAnNxAH4AU3QABXNjYWxhcQB+AFp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AANleDJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVKyxSiQdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABR0qsWU+P28YOR8IhcmH5UPlnZNKw==
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Fibonacci.scala -> 
@@ -305,10 +488,12 @@ C:\Users\CHAOLUN\git\fpis\fpis\src\ex3\Tree.scala ->
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCOuK1/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAIZXgzLlRyZWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQAA2V4M3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrND9a51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAiQzpcVXNlcnNcQ0hBT0xVTlxnaXRcZnBpc1xmcGlzXGJpbnQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFMGL0aWCkqJRanW3ovXFLoqGGY/u
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBcIQ08AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAHZXg0LkV4NHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ALgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA1c3EAfgAuAXVxAH4AEAAAAABwc3EAfgAuAXVxAH4AEAAAAABwc3EAfgAuAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4ATXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ATnNxAH4AQXQAA0FueXNxAH4ARXNxAH4ASHVxAH4ASwAAAAJzcQB+AE10AAVzY2FsYXEAfgBUcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AANleDRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVK3k1/MdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABQKWNoBdhlbLx5oAaYW1OGvXISSnA==
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD4YtO1AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAHZXg1LkV4NXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AU3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QAA0FueXNxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFN0AAVzY2FsYXEAfgBadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAADZXg1c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSwlxqjXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcYmludAAiQzpcVXNlcnNcQ0hBT0xVTlxnaXRcZnBpc1xmcGlzXHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUx5VBbgrS7whAH9ZpFs4TzsohOus=
 external apis:
 0 items
 source infos:
-8 items
+9 items
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Currying.scala -> 
 AAAAAAAAAAA=
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex2\Fibonacci.scala -> 
@@ -325,8 +510,10 @@ C:\Users\CHAOLUN\git\fpis\fpis\src\ex3\Tree.scala ->
 AAAAAAAAAAA=
 C:\Users\CHAOLUN\git\fpis\fpis\src\ex4\Ex4.scala -> 
 AAAAAAAAAAA=
+C:\Users\CHAOLUN\git\fpis\fpis\src\ex5\Ex5.scala -> 
+AAAAAAAAAAA=
 compilations:
-54 items
+88 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrKpK6V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAG086XHdvcmtzcGFjZVxTY2FsYVxmcGlzXGJpbnQAG086XHdvcmtzcGFjZVxTY2FsYVxmcGlzXHNyYw==
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrKpP7l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAG086XHdvcmtzcGFjZVxTY2FsYVxmcGlzXGJpbnQAG086XHdvcmtzcGFjZVxTY2FsYVxmcGlzXHNyYw==
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrKqE2t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAG086XHdvcmtzcGFjZVxTY2FsYVxmcGlzXGJpbnQAG086XHdvcmtzcGFjZVxTY2FsYVxmcGlzXHNyYw==
@@ -381,3 +568,37 @@ compilations:
 51 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUreKFw51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
 52 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUreO76h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
 53 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUreTX8x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+54 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUreY46V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+55 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrfJFgF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+56 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrfLUkd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+57 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrfQ8Qt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+58 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrfRP711cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+59 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrfRXpJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+60 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrfVcgZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+61 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrg9hLt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+62 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUriHUHt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+63 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUriJ49J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+64 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUriLEON1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+65 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUriMC5x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+66 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUriMQ/l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+67 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrj7B3V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+68 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrj+NYt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+69 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrj+neN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+70 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrkBVgx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+71 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrkOeol1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+72 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrkYfNF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+73 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrlK1UN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+74 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrlLvcV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+75 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUr4VTjR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+76 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUr4Wsd11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+77 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUr4Ye7Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+78 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUsFS1jB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+79 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUsGBmAR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+80 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUsGCikF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+81 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUsGCrul1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+82 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUsGJ1CJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+83 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUsJASTR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+84 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUsJA1FR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+85 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUsJBE8p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+86 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUsJMy1Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
+87 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUsJcao11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkM6XFVzZXJzXENIQU9MVU5cZ2l0XGZwaXNcZnBpc1xiaW50ACJDOlxVc2Vyc1xDSEFPTFVOXGdpdFxmcGlzXGZwaXNcc3Jj
